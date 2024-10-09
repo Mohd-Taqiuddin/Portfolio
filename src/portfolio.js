@@ -1,6 +1,6 @@
 // Website related settings
 const settings = {
-  isSplash: true, // Change this to false if you don't want Splash screen.
+  isSplash: false, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
@@ -131,10 +131,7 @@ const skills = {
         },
         {
           skillName: "python",
-          fontAwesomeClassname: "fab fa-python",
-          style: {
-            color: "#4584b6",
-          },
+          imageSrc: "logo-python.svg"
         }
       ],
     },
@@ -185,10 +182,7 @@ const skills = {
         },
         {
           skillName: "sql-database",
-          fontAwesomeClassname: "fas fa-database",
-          style: {
-            color: "#00758f",
-          },
+          imageSrc: "sqldatabase.svg"
         },
         {
           skillName: "MongoDB",
@@ -248,7 +242,7 @@ const degrees = {
     {
       title: "Osmania University",
       subtitle: "B.E. in Computer Science",
-      logo_path: "iu_logo.png",
+      logo_path: "osmania_logo.jpg",
       alt_name: "Osmania University",
       duration: "2018 - 2022",
       descriptions: [
@@ -288,9 +282,9 @@ const experience = {
           title: "Software Engineer",
           company: "NM Group",
           company_url: "https://www.linkedin.com/company/nmdev/",
-          logo_path: "legato_logo.png",
+          logo_path: "nm_logo.jpg",
           duration: "Jan 2021 - July 2022",
-          location: "Hyderabad, Telangana (Remote)",
+          location: "Hyderabad, Telangana, India (Remote)",
           description:
             "Increased system scalability using Node.js, led many projects with React/Redux and built several APIs, integrated third-party services, and improved system stability by a lot through efficient root cause analyses.",
           color: "#0879bf",
@@ -301,7 +295,7 @@ const experience = {
           company_url: "https://www.gleamtechnologies.com/",
           logo_path: "logo-gleam.png",
           duration: "Oct 2019 - Nov 2020",
-          location: "Pune, Maharashtra",
+          location: "Hyderabad, Telangana, India",
           description:
             "I optimized web scraping, improved system uptime, streamlined backend solutions with Python, and automated deployment pipelines using AWS, reducing development time and release cycles by 30%.",
           color: "#9b1578",
