@@ -1,4 +1,4 @@
-<h1 align="center"> Software Developer Portfolio 🔥 </h1> 
+<h1 align="center"> Software Engineer Portfolio </h1> 
 
 :star: Star  on GitHub — it helps!
 
