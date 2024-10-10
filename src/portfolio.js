@@ -1,6 +1,6 @@
 // Website related settings
 const settings = {
-  isSplash: false, // Change this to false if you don't want Splash screen.
+  isSplash: false, 
 };
 
 //SEO Related settings
