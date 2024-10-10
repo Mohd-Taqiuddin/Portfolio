@@ -2,7 +2,7 @@
 
 :star: Star  on GitHub — it helps!
 
-# Sections 📚
+# Sections 
 
 ✔️ Summary and About me\
 ✔️ Skills \
