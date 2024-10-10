@@ -15,7 +15,7 @@ export default class Main extends Component {
       <BrowserRouter basename="/Portfolio">
         <Switch>
           <Route
-            path="/Portfolio"
+            path="/"
             exact
             render={(props) =>
               <Home {...props} theme={this.props.theme} />
