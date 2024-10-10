@@ -11,7 +11,7 @@
 ✔️ Education\
 ✔️ Contact me
 
-To view a live example, **[click here](https://Mohd-Taqiuddin.github.io/)**
+To view a live example, **[click here](https://Mohd-Taqiuddin.github.io/Portfolio)**
 
 
 # Technologies used 🛠️
