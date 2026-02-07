@@ -269,7 +269,7 @@ const experience = {
       experiences: [
          {
           title: "Software Engineer",
-          company: "Xclusive Tarding Inc",
+          company: "Tmobile",
           company_url: "http://dealers.xtimobile.com/index.fwx",
           logo_path: "logokgc.png",
           duration: "Apr 2025 - Present",
